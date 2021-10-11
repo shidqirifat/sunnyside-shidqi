@@ -1,5 +1,5 @@
 /* Berisi file style untuk responsive */
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 420px) {
     .nav-desktop {
         display: none;
     }
